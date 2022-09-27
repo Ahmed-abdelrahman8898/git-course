@@ -1,2 +1,2 @@
-i am the second branch bgd
+i am the diff diff branch bgd
 i am conflict conflict conflict
